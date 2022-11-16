@@ -1,7 +1,7 @@
 # Module-2-Challenge
 Here I will deminstrate my skills in HTML and CSS by creating a webpage portfolio for my potential employer. 
 
-<h1> User Story </h1>
+<h2> User Story </h2>
 
 AS A marketing agency
 
@@ -9,9 +9,7 @@ I WANT a codebase that follows accessibility standards
 
 SO THAT our own site is optimized for search engines
 
-
-
-##Acceptance Criteria
+<h2> Acceptance Criteria </h2>
 
 GIVEN a webpage meets accessibility standards
 
